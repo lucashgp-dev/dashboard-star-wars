@@ -23,7 +23,7 @@ Outras tecnologias:
 
 Este projeto é uma Dashboard Star Wars que tem como base a API SWAPI.
 
-Você pode visualizar o projeto através [desse link](link-do-site).
+Você pode visualizar o projeto através [desse link](https://romantic-snyder-1b0406.netlify.app/).
 
 ---
 Projeto realizado com ajuda da Isadora do canal [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA).
